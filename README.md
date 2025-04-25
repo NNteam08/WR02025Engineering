@@ -44,37 +44,21 @@ Component
 
 Arduino Pin
 
-HuskyLens RX
+HuskyLens RX           Pin 2
 
-Pin 2
+HuskyLens TX           Pin 3
 
-HuskyLens TX
+MPU6050 SD             A4
 
-Pin 3
+MPU6050 SCL            A5
 
-MPU6050 SDA
+IR sensors             A0, A1, A2
 
-A4
+Motors                 EnA=5, IN1=6, IN2=7
 
-MPU6050 SCL
+Servo                  Pin 9
 
-A5
-
-IR sensors
-
-A0, A1, A2
-
-Motors
-
-EnA=5, IN1=6, IN2=7
-
-Servo
-
-Pin 9
-
-Start button
-
-Pin 8
+Start button           Pin 8
 
 License
 
