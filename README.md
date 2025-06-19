@@ -120,6 +120,19 @@ Multiple sensors cross-validate all major events. If conflicting data arises, ro
 6. For re-run: power cycle/reset.  
    *Manual override available via hardware switch (for testing only).*
 
+## Robot Design Comparison
+
+|                 | **Pros**                                                                              | **Cons**                                                                |
+|-----------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| **Old Robot**   | - Stronger motors<br>- Easy to repair<br>- High speed                                | - Bulky and heavy<br>- Low maneuverability<br>- Too many unused sensors |
+| **New Robot**   | - Very compact<br>- Sharper turning radius<br>- Efficient use of all sensors          | - Slower speed<br>- Fewer expansion ports                               |
+
+<div align="center">
+
+| ![Old Robot](old_robot.png) <br> *Old Robot* | ![New Robot](new_robot.png) <br> *New Robot* |
+|:--------------------------------------------:|:--------------------------------------------:|
+</div>
+
 ---
 
 ## Repository Structure
