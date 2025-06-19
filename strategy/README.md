@@ -20,6 +20,13 @@ At each corner of the field, colored lines are placed (typically blue or orange)
 - **Color-based lap tracking** and **direction decision**.
 - **Stop** in starting sector after three laps.
 
+| ![alt-text](https://drive.google.com/uc?export=view&id=1X6vuDd8YfFBtCJw5ox_9kgtYjvd9QqWh)    |  ![alt-text](https://drive.google.com/uc?export=view&id=1UlPrcQWhIYS66Unisi-mkaLWR6XP0ieK)     | 
+|:---------------------------------:|:-------------------------------:|
+| **Straight Movement**                    | **Turning**                   |
+
+| ![alt-text](https://drive.google.com/uc?export=view&id=1GZ1cN2SYzF1O-KDaH7pRmvxYXXsj1AEt)    | 
+|:---------------------------------:|
+| **Open Challenge Flowchart**                    | 
 ---
 
 ### Obstacle Challenge Strategy
