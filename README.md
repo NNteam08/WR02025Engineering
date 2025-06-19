@@ -29,9 +29,9 @@ We address each task using dedicated sensor systems, robust control logic, and p
 ## Hardware Components & Architecture
 
 - **Controller:**  
-  *Arduino Mega 2560* — chosen for its abundant I/O and memory. Runs the entire system and interfaces with all sensors and actuators.
+  *Arduino Uno* — chosen for its abundant I/O and memory. Runs the entire system and interfaces with all sensors and actuators.
 - **Drive Motors & Motor Driver:**  
-  2x DC gear motors (differential drive) powered via *L298N H-bridge* for independent wheel speed/direction via PWM.
+ DC gear motors (differential drive) powered via *L298N H-bridge* for independent wheel speed/direction via PWM.
 - **Steering:**  
   *Ackermann* steering using an RC servo for front wheel angle (realistic car kinematics, smooth turning).
 - **Power Supply:**  
