@@ -124,12 +124,12 @@ Multiple sensors cross-validate all major events. If conflicting data arises, ro
 
 |                 | **Pros**                                                                              | **Cons**                                                                |
 |-----------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| **Old Robot**   | - Stronger motors<br>- Easy to repair<br>- High speed                                | - Bulky and heavy<br>- Low maneuverability<br>- Too many unused sensors |
-| **New Robot**   | - Very compact<br>- Sharper turning radius<br>- Efficient use of all sensors          | - Slower speed<br>- Fewer expansion ports                               |
+| **Old Robot**   | - Higher capacity of battery<br>- Easy to repair<br>-                              | - Bulky and heavy<br>- Low maneuverability<br>- Very slow |
+| **New Robot**   | - Very high speed for maneuver<br>- Sharper turning radius<br>- Efficient use of all sensors          | - much longer, which increases the risk of hitting obstacles. speed<br>- Smaller rotation angle                          |
 
 <div align="center">
 
-| ![Old Robot](old_robot.png) <br> *Old Robot* | ![New Robot](new_robot.png) <br> *New Robot* |
+|  ![image](https://drive.google.com/uc?export=view&id=16ZTw94iO_KG_5JV8KZBTO7PJaKavy_-L) <br> *Old Robot* | ![image](https://drive.google.com/uc?export=view&id=1MPrhUXjdO5PSkiyWsGJf9tVWsXgGLTKx) <br> *New Robot* |
 |:--------------------------------------------:|:--------------------------------------------:|
 </div>
 
